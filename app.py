@@ -29,13 +29,13 @@ def play_live_camera():
         
 
 st.set_page_config(
-    page_title="Vehicle Detection",
+    page_title="emotion-age-gender-detection :sun_with_face:",
     page_icon=":sun_with_face:",
     layout="centered",
     initial_sidebar_state="expanded")
 
 
-st.title("Vehicle Detection :sun_with_face:")
+st.title("emotion-age-gender-detection :sun_with_face:")
 
 st.sidebar.header("Type")
 source_radio = st.sidebar.radio("Select Source",["IMAGE", "VIDEO", "WEBCAM"])
