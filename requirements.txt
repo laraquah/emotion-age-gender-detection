@@ -3,9 +3,7 @@ streamlit==1.36.0
 pillow==10.4.0
 numpy==1.26.4
 Python-IO==0.3
-openvino==2023.1.0
+openvino
 matplotlib==3.9.1
 streamlit-camera-input-live==0.2.0
 moviepy==2.0.0.dev2
-opencv-python==4.10.0.84
-Python==3.11.8
